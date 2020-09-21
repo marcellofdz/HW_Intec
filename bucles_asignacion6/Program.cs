@@ -10,7 +10,8 @@ namespace bucles_asignacion6
             /*Desarrollar un programa que pregunte que clase de operación que programa correr, 
             el tipo de bucle y si desea continuar.*/
 
-              #region ejercicio1
+            #region ejercicio1
+            /*
             //Que muestre los números descendentes del 1 al 100 de dos en dos
 
 
@@ -86,12 +87,35 @@ namespace bucles_asignacion6
 
             Console.ReadKey();
             Console.Clear();
-           
+
+            */
             #endregion
 
 
 
+            #region ejercicio2
 
+            //Que pida un número y muestre la tabla del 1 al 12 de dicho número;
+
+            Int32 vNum1, vR, vCon = 0;
+
+            Console.WriteLine("Mostrar la tabla hasta el 12 de cualquier numero.");
+            Console.Write("Dame un numero: ");
+            vNum1 = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 1; i < 13; i++)
+            {
+
+               // Console.WriteLine("La tabla del {0}", vNum1);
+                vR = vNum1 * i;
+                Console.WriteLine(vNum1 + " * " + i+ " = " + vR);
+            }
+
+            Console.WriteLine("------------------ Fin del programa ------------------");
+            Console.ReadKey();
+            Console.Clear();
+
+            #endregion
 
 
 
