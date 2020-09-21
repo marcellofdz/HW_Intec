@@ -1,0 +1,13 @@
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\bin\Debug\netcoreapp3.1\bucles_asignacion6.exe
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\bin\Debug\netcoreapp3.1\bucles_asignacion6.deps.json
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\bin\Debug\netcoreapp3.1\bucles_asignacion6.runtimeconfig.json
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\bin\Debug\netcoreapp3.1\bucles_asignacion6.runtimeconfig.dev.json
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\bin\Debug\netcoreapp3.1\bucles_asignacion6.dll
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\bin\Debug\netcoreapp3.1\bucles_asignacion6.pdb
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\obj\Debug\netcoreapp3.1\bucles_asignacion6.csprojAssemblyReference.cache
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\obj\Debug\netcoreapp3.1\bucles_asignacion6.AssemblyInfoInputs.cache
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\obj\Debug\netcoreapp3.1\bucles_asignacion6.AssemblyInfo.cs
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\obj\Debug\netcoreapp3.1\bucles_asignacion6.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\obj\Debug\netcoreapp3.1\bucles_asignacion6.dll
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\obj\Debug\netcoreapp3.1\bucles_asignacion6.pdb
+C:\Users\Marcello\source\repos\HW_Intec\bucles_asignacion6\obj\Debug\netcoreapp3.1\bucles_asignacion6.genruntimeconfig.cache
