@@ -1,0 +1,93 @@
+1. Mostrar nombre completo por pantalla
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Marcello Fernandez");
+            Console.ReadLine();
+        }
+-----------------------------------------------------------------------------
+2. Mostrar por pantalla de manera separadas sus nombres y apellidos
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Marcello");
+            Console.WriteLine("\nFernandez");
+            Console.ReadLine();
+        }
+------------------------------------------------------------------------------
+3. Pregunte y capture su nombre y muestre por pantalla un saludo personalizado
+
+        static void Main(string[] args)
+        {
+            string vN1;
+            Console.WriteLine("¿Cuál es tu nombre?");
+            vN1 = Console.ReadLine();
+            Console.WriteLine("\n¡Hola {0}!" , vN1);
+            Console.ReadLine();
+        }
+-------------------------------------------------------------------------------
+4. Capture dos números y muestre por pantalla la sumatoria dichos números
+
+        static void Main(string[] args)
+        {
+            Int32 vN1, vN2, vN3;
+            Console.WriteLine("Introduzca un número:");
+            vN1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduzca otro número:");
+            vN2 = int.Parse(Console.ReadLine());
+            vN3 = (vN1 + vN2);
+            Console.WriteLine("\nLa suma de ambos números es {0}" , vN3);
+            Console.ReadLine();
+        }
+--------------------------------------------------------------------------------
+5. Pida 3 numeros y muestre por pantalla el resultado de la suma del primero y el tercero divido entre el segundo
+
+        static void Main(string[] args)
+        {
+            Double vN1, vN2, vN3, vTotal;
+            Console.WriteLine("Introduzca un número:");
+            vN1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduzca otro número:");
+            vN2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduzca un tercer número:");
+            vN3 = double.Parse(Console.ReadLine());
+            vTotal = ((vN1 + vN3) / vN2);
+            Console.WriteLine("\nLa suma del primero con el tercero divido entre el segundo es {0}" , vTotal);
+            Console.ReadLine();
+        }
+--------------------------------------------------------------------------------------
+6. Pida 5 numeros y muestre por pantalla el promedio
+
+        static void Main(string[] args)
+        {
+            Double vN1, vN2, vN3, vN4, vN5, vTotal;
+            Console.WriteLine("Introduzca un número:");
+            vN1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduzca otro número:");
+            vN2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduzca un tercer número:");
+            vN3 = double.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduzca un cuarto número:");
+            vN4 = double.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduzca un quinto número:");
+            vN5 = double.Parse(Console.ReadLine());
+            vTotal = ((vN1 + vN2 + vN3 + vN4 + vN5) / 5);
+            Console.WriteLine("\nEl promedio es {0}" , vTotal);
+            Console.ReadLine();
+        }
+----------------------------------------------------------------------------------------
+7. Muestra por pantalla la tabla del 12 del 1 al 12
+
+        static void Main(string[] args)
+        {
+            Int32 vN1, vN2;
+            vN1 = 1;
+            while (vN1 < 13)
+            {
+                vN2 = (12 * vN1);
+                Console.WriteLine("12x{0} = {1}" , vN1, vN2);
+                vN1 += 1;
+            }
+            Console.ReadLine();
+        }
+

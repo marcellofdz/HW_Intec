@@ -1,0 +1,101 @@
+1. Area del cuadrado
+
+        static void Main(string[] args)
+        {
+            Double vL, vA, vY;
+            vY = 2;
+            Console.WriteLine("Cálculadora de áreas de un cuadrado");
+            Console.WriteLine("\nIntroduce el valor de uno de los lados:");
+            vL = double.Parse(Console.ReadLine());
+            vA = Math.Pow(vL, vY);
+            Console.WriteLine("\nEl área del cuadrado vale {0}" , vA);
+            Console.ReadLine();
+        }
+-----------------------------------------------------------------------------------
+2. Area de un rectangulo
+
+        static void Main(string[] args)
+        {
+            Int32 vB, vA, vH;
+            Console.WriteLine("Cálculadora de áreas de un rectángulo");
+            Console.WriteLine("\nIntroduce el valor de la base:");
+            vB = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduce el valor de la altura:");
+            vH = int.Parse(Console.ReadLine());
+            vA = ((vB)*(vH));
+            Console.WriteLine("\nEl área del rectángulo vale {0}" , vA);
+            Console.ReadLine();
+        }
+-------------------------------------------------------------------------------------
+3. Area de triángulo
+
+        static void Main(string[] args)
+        {
+            Double vB, vA, vH;
+            Console.WriteLine("Cálculadora de áreas de un triángulo");
+            Console.WriteLine("\nIntroduce el valor de la base:");
+            vB = double.Parse(Console.ReadLine());
+            Console.WriteLine("\nIntroduce el valor de la altura:");
+            vH = double.Parse(Console.ReadLine());
+            vA = (((vB)*(vH))/2);
+            Console.WriteLine("\nEl área del triángulo vale {0}" , vA);
+            Console.ReadLine();
+        }
+----------------------------------------------------------------------------------------
+4. Area de circulo
+
+        static void Main(string[] args)
+        {
+            Double vR, vP, vA, vD;
+            Double pi = Math.PI;
+            vD = 2;
+            Console.WriteLine("Cálculadora de áreas de un círculo");
+            Console.WriteLine("\nIntroduce el valor del radio:");
+            vR = double.Parse(Console.ReadLine());
+            vP = Math.Pow(vR , vD);
+            vA = ((pi)*(vP));
+            Console.WriteLine("\nEl área del círculo vale {0}" , vA);
+            Console.ReadLine();
+        }
+----------------------------------------------------------------------------------------
+5. Area de cono
+
+        static void Main(string[] args)
+        {
+            Double vA, vL, vR, vRC, vH, vG, vD;
+            Double pi = Math.PI;
+            vD = 2;
+            Console.WriteLine("Cálculadora de áreas de un cono");
+            Console.WriteLine("\nIntroduce el valor del radio:");
+            vR = double.Parse(Console.ReadLine());
+            vRC = Math.Pow(vR , vD);
+            Console.WriteLine("\nIntroduce el valor de la altura:");
+            vH = double.Parse(Console.ReadLine());
+            vH = Math.Pow(vH, vD);
+            vG = Math.Sqrt((vRC)+(vH));
+            Console.WriteLine("\nLa generatriz vale {0}" , vG);
+            vL = ((pi) * (vR) * (vG));
+            Console.WriteLine("\nEl área lateral vale {0}", vL);
+            vA = ((pi) * (vR) * (vG+vR));
+            Console.WriteLine("\nEl área total vale {0}", vA);
+            Console.ReadLine();
+        }
+----------------------------------------------------------------------------------
+6. Hipotenusa mediante Pitagoras
+
+        static void Main(string[] args)
+        {
+            Double vH, vCA, vCO, vD;
+            vD = 2;
+            Console.WriteLine("Cálculadora de hiptenusa mediante Pitágoras:");
+            Console.WriteLine("\nIntroduce el valor del cateto opuesto:");
+            vCO = double.Parse(Console.ReadLine());
+            vCO = Math.Pow(vCO , vD);
+            Console.WriteLine("\nIntroduce el valor del cateto adyacente:");
+            vCA = double.Parse(Console.ReadLine());
+            vCA = Math.Pow(vCA, vD);
+            vH = Math.Sqrt((vCO)+(vCA));
+            Console.WriteLine("\nLa hipotenusa vale {0}" , vH);
+            Console.ReadLine();
+        }
+

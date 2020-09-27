@@ -1,0 +1,13 @@
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\obj\Debug\netcoreapp3.1\asignacion1_procesoYsalida.csprojAssemblyReference.cache
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\obj\Debug\netcoreapp3.1\asignacion1_procesoYsalida.AssemblyInfoInputs.cache
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\obj\Debug\netcoreapp3.1\asignacion1_procesoYsalida.AssemblyInfo.cs
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\obj\Debug\netcoreapp3.1\asignacion1_procesoYsalida.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\bin\Debug\netcoreapp3.1\asignacion1_procesoYsalida.exe
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\bin\Debug\netcoreapp3.1\asignacion1_procesoYsalida.deps.json
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\bin\Debug\netcoreapp3.1\asignacion1_procesoYsalida.runtimeconfig.json
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\bin\Debug\netcoreapp3.1\asignacion1_procesoYsalida.runtimeconfig.dev.json
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\bin\Debug\netcoreapp3.1\asignacion1_procesoYsalida.dll
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\bin\Debug\netcoreapp3.1\asignacion1_procesoYsalida.pdb
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\obj\Debug\netcoreapp3.1\asignacion1_procesoYsalida.dll
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\obj\Debug\netcoreapp3.1\asignacion1_procesoYsalida.pdb
+C:\Users\Marcello\source\repos\HW_Intec\asignación1\asignacion1_procesoYsalida\obj\Debug\netcoreapp3.1\asignacion1_procesoYsalida.genruntimeconfig.cache
