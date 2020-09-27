@@ -75,7 +75,7 @@ namespace bucles_asignacion6
                 Console.WriteLine("y/n");
                 vDesicion = Console.ReadLine();
                 if (vDesicion == "n")
-                {
+                {2
                     Console.WriteLine("------------------ Fin del programa ------------------");
                     break;
                 }
@@ -103,13 +103,20 @@ namespace bucles_asignacion6
             Console.Write("Dame un numero: ");
             vNum1 = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i < 13; i++)
+            do
             {
+                Console.WriteLine("Ha seleccionado el ciclo For");
+                for (int i = 1; i < 13; i++)
+                {
 
-               // Console.WriteLine("La tabla del {0}", vNum1);
-                vR = vNum1 * i;
-                Console.WriteLine(vNum1 + " * " + i+ " = " + vR);
-            }
+                    // Console.WriteLine("La tabla del {0}", vNum1);
+                    vR = vNum1 * i;
+                    Console.WriteLine(vNum1 + " * " + i + " = " + vR);
+                }
+
+
+            } while (true);
+            
 
             Console.WriteLine("------------------ Fin del programa ------------------");
             Console.ReadKey();
