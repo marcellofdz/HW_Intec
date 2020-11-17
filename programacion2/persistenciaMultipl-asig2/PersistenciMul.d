@@ -10,7 +10,7 @@ void main(string[] args)
 	//int num = 294;
 	int repeticiones = 0;
 
-	writeln("El numero inicial es: ", num);
+	writeln("El first number is: ", num);
 	
 
 	while (num > 9)
@@ -27,12 +27,15 @@ void main(string[] args)
 	    }
 	
 	    repeticiones++;
-	    writeln("Producto ", repeticiones, " es: ", producto);
+	    writeln("The Product ", repeticiones, " is: ", producto);
 	    num = producto;
 	
 
 	}
 
-	
-	writeln("la persistencia Multiplicativa es: ", repeticiones, ", cifra final: ", num);
+	writeln("");
+	writeln("=============================================");
+	writeln("The multiplicative persistence is: ", repeticiones, ", \nThe last number: ", num);
+	writeln("=============================================");
+	//MF 1093226"
 }
