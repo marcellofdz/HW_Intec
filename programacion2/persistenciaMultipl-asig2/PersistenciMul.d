@@ -15,22 +15,19 @@ void main(string[] args)
 
 	while (num > 9)
 	{
+	
 		int producto = 1;
 	  
-	    while(num != 0){
+	  while(num != 0){
 	    
 	    	int unidades = num % 10;
 		producto *= unidades;
-		num = (num - unidades)/10;
-	    
-	    
-	    }
+		num = (num - unidades)/10;	    
+	  }
 	
 	    repeticiones++;
 	    writeln("The Product ", repeticiones, " is: ", producto);
 	    num = producto;
-	
-
 	}
 
 	writeln("");
