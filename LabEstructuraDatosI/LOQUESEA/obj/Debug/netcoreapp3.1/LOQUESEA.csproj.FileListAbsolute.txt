@@ -1,0 +1,39 @@
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.csprojAssemblyReference.cache
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.AssemblyInfoInputs.cache
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.AssemblyInfo.cs
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.csproj.CoreCompileInputs.cache
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.exe
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.deps.json
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.runtimeconfig.json
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.runtimeconfig.dev.json
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.dll
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.pdb
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.dll
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.pdb
+C:\Users\Angel Daniel\Documents\Importante\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.genruntimeconfig.cache
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.exe
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.deps.json
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.runtimeconfig.json
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.runtimeconfig.dev.json
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.dll
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.pdb
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.csprojAssemblyReference.cache
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.AssemblyInfoInputs.cache
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.AssemblyInfo.cs
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.csproj.CoreCompileInputs.cache
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.dll
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.pdb
+C:\Users\Angel Daniel\Documents\INTEC\Códigos\LOQUESEA\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.genruntimeconfig.cache
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.exe
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.deps.json
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.runtimeconfig.json
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.runtimeconfig.dev.json
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.dll
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\bin\Debug\netcoreapp3.1\LOQUESEA.pdb
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.csprojAssemblyReference.cache
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.AssemblyInfoInputs.cache
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.AssemblyInfo.cs
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.csproj.CoreCompileInputs.cache
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.dll
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.pdb
+E:\repos\HW_Intec\LabEstructuraDatosI\LOQUESEA\obj\Debug\netcoreapp3.1\LOQUESEA.genruntimeconfig.cache
